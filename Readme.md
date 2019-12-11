@@ -1,4 +1,5 @@
-# Device Perf Check ![https://www.npmjs.com/package/device-perf-check](https://img.shields.io/npm/v/device-perf-check)
+# Device Perf Check  [![NPM version](https://img.shields.io/npm/v/device-perf-check)](https://www.npmjs.com/package/device-perf-check)
+
 
 The goal of this library is to determine client's device performance in a naive way by running CPU heavy loop using webworker for the sake of main thread. 
 
