@@ -1,6 +1,6 @@
 {
   "name": "device-perf-check",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Determine client's device performance",
   "main": "index.js",
   "scripts": {
